@@ -1,0 +1,44 @@
+body{
+    font-family: arial;
+    background-color: rgb(12, 12, 12);
+}
+
+table{
+    background-color: black;
+    text-align: left;
+}
+
+th{
+    color: #4deb03;
+}
+
+tr:hover{
+    background-color: rgb(19, 18, 18);
+    color: white;
+}
+
+th, td{
+    padding-left: 20px;
+    padding-right: 280px;
+}
+
+.item{
+    color: white;
+}
+
+.precio{
+    font-size: 38px;
+    padding-right: 100px;
+    color: white;
+}
+
+.espe{
+    color: white;
+    font-size: 13px;
+}
+
+.asociados{
+    color: white;
+    margin: auto;
+}
+
